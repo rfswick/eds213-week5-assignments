@@ -1,0 +1,2 @@
+The outer_join was by far the fastest of the three options. 
+I needed to run 500 repetitions of each to get good metrics on which method was fastest.
